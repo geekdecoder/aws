@@ -1,2 +1,2 @@
 # aws
-AWS Repo
+This file can be copied and downloaded and inserted into the user data field to automatically install LAMP on Debian.
